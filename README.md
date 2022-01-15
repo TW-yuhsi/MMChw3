@@ -9,4 +9,5 @@
 
 ## Reference
 
-- https://atlantavinylstore.com/products/checkerboard-patterned-htv
+- Checkerboard: https://atlantavinylstore.com/products/checkerboard-patterned-htv
+- Tutorial for Stereo Camera Calibrator: https://www.youtube.com/watch?v=6OWGfP3nf8s
