@@ -11,13 +11,13 @@
 <details>
 <summary>Add Images</summary>
 
-[!image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/apps.png)
+![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/apps.png)
   
 - Folder for images from camera 1: ~\checkerboard\camera_left_cropped
 - Folder for images from camera 2: ~\checkerboard\camera_right_cropped
 - Size of checkerboard square: 5 millimeters
 
-[!image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/loadImgs.png)
+![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/loadImgs.png)
 
 </details>
 
