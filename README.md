@@ -20,10 +20,10 @@
 
 ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/loadImgs.png)
   
-View Images and Detected Points
-The Data Browser pane displays a list of image pairs with IDs. These image pairs contain a detected pattern. To view an image, select it from the Data Browser pane.
-![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/imagesLoaded.png)
+- View Images and Detected Points
 
+![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/imagesLoaded.png)
+The Data Browser pane displays a list of image pairs with IDs. These image pairs contain a detected pattern. To view an image, select it from the Data Browser pane.
 
 </details>
 
