@@ -58,6 +58,38 @@ You can evaluate calibration accuracy by examining the reprojection errors, exam
 
 
 
+<details>
+<summary>Show Rectified Images</summary>
+
+To view the effects of stereo rectification, on the Calibration tab, in the View section, select Show Rectified. If the calibration is accurate, the images become undistorted and row-aligned.
+
+![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/showRectified.png)
+  
+</details>
+
+
+
+
+
+<details>
+<summary>Note</summary>
+
+Checking the rectified images is important even if the reprojection errors are low. For example, if the pattern covers only a small percentage of the image, the distortion estimation might be incorrect, even though the calibration resulted in few reprojection errors.The following image shows an example of this type of incorrect estimation for a single camera calibration.
+
+![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/smallPercentage/o_1.png)
+![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/smallPercentage/o_2.png)
+![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/smallPercentage/o_3.png)
+  
+</details>
+
+
+
+
+
+
+
+
+
 
 <details>
 <summary>Reference</summary>
