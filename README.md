@@ -1,6 +1,11 @@
 # MMChw3
 
 
+## Hardware information
+- System: Microsoft Windows 10 Pro
+- Processor: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz   2.71 GHz
+
+
 ## Stereo Camera Calibrator
 
 - camera 1: camera_left_cropped
