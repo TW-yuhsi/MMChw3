@@ -33,6 +33,7 @@ The Data Browser pane displays a list of image pairs with IDs. These image pairs
 <details>
 <summary>Calibrate</summary>
 
+Once you are satisfied with the accepted image pairs, click the Calibrate button on the Calibration tab. The default calibration settings assume the minimum set of camera parameters. Start by running the calibration with the default settings. After evaluating the results, you can try to improve calibration accuracy by adjusting the settings and adding or removing images, and then calibrate again.
   
 ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/calibrate.png)
   
