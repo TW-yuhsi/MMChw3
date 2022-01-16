@@ -84,6 +84,15 @@ Checking the rectified images is important even if the reprojection errors are l
 
 
 
+<details>
+<summary>Output Parameters (stereoParams)</summary>
+
+
+  
+</details>
+
+
+
 
 
 
