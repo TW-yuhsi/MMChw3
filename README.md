@@ -86,9 +86,31 @@ Checking the rectified images is important even if the reprojection errors are l
 
 <details>
 <summary>Output Parameters (stereoParams)</summary>
-
-
   
+```text
+stereoParams = 
+
+  stereoParameters with properties:
+
+   Parameters of Two Cameras
+        CameraParameters1: [1×1 cameraParameters]
+        CameraParameters2: [1×1 cameraParameters]
+
+   Inter-camera Geometry
+        RotationOfCamera2: [3×3 double]
+     TranslationOfCamera2: [-1.198719818854255e+02 -0.400536334957486 -0.025750814320411]
+        FundamentalMatrix: [3×3 double]
+          EssentialMatrix: [3×3 double]
+
+   Accuracy of Estimation
+    MeanReprojectionError: 0.057242729028599
+
+   Calibration Settings
+              NumPatterns: 10
+              WorldPoints: [42×2 double]
+               WorldUnits: 'mm'
+```
+
 </details>
 
 
