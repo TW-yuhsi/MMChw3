@@ -12,13 +12,16 @@
 ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/apps.png)
 
 <details>
-<summary>Add Images</summary>
+<summary>Add Images from folders</summary>
   
 - Folder for images from camera 1: ~\checkerboard\camera_left_cropped
 - Folder for images from camera 2: ~\checkerboard\camera_right_cropped
 - Size of checkerboard square: 5 millimeters
 
 ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/loadImgs.png)
+  
+View Images and Detected Points
+The Data Browser pane displays a list of image pairs with IDs. These image pairs contain a detected pattern. To view an image, select it from the Data Browser pane.
 ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/imagesLoaded.png)
 
 
@@ -28,7 +31,7 @@
 
 <details>
 <summary>Calibrate</summary>
-View Images and Detected Points
+
   
 ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/calibrate.png)
   
