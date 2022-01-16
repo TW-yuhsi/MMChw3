@@ -25,6 +25,7 @@
 
 <details>
 <summary>Calibrate</summary>
+View Images and Detected Points
   
 ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/calibrate.png)
   
