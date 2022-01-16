@@ -7,9 +7,16 @@
 - Installed RAM: 4.00 GB
 
 
-## MATLAB APPS - Stereo Camera Calibrator
+## MATLAB
 
+<details>
+<summary>Stereo Camera Calibrator</summary>
+  
 ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/apps.png)
+  
+</details>
+
+
 
 <details>
 <summary>Add Images from folders</summary>
