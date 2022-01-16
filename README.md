@@ -13,10 +13,11 @@
 
 <details>
 <summary>Add Images from folders</summary>
-  
-- Folder for images from camera 1: ~\checkerboard\camera_left_cropped
-- Folder for images from camera 2: ~\checkerboard\camera_right_cropped
-- Size of checkerboard square: 5 millimeters
+
+- Load Stereo Images
+  - Folder for images from camera 1: ~\checkerboard\camera_left_cropped
+  - Folder for images from camera 2: ~\checkerboard\camera_right_cropped
+  - Size of checkerboard square: 5 millimeters
 
 ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/loadImgs.png)
   
