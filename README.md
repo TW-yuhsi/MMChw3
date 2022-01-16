@@ -9,8 +9,8 @@
 
 ## MATLAB APPS - Stereo Camera Calibrator
 1. Add Images
-  - Folder for images from camera 1: D:\__NYCU__\G2\Topical_Mathematical_Modeling_and_Computing(I)\homework\hw3\checkerboard\camera_left_cropped
-  - Folder for images from camera 2: D:\__NYCU__\G2\Topical_Mathematical_Modeling_and_Computing(I)\homework\hw3\checkerboard\camera_right_cropped
+  - Folder for images from camera 1: ~\checkerboard\camera_left_cropped
+  - Folder for images from camera 2: ~\checkerboard\camera_right_cropped
   - Size of checkerboard square: 5 millimeters
 2. Calibrate
 
