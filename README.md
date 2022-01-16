@@ -26,6 +26,7 @@
 <details>
 <summary>Calibrate</summary>
   
+![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/calibrate.png)
   
 </details>
 
