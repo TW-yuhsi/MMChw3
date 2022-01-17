@@ -142,12 +142,18 @@ stereoParams =
 - `find_match_points`
   - `detectSURFFeatures`
   
-    Syntax: points = detectSURFFeatures(I)
-  
-    points = detectSURFFeatures(I) returns a SURFPoints object, points, containing information about SURF features detected in the 2-D grayscale input image I.
-    The detectSURFFeatures function implements the Speeded-Up Robust Features (SURF) algorithm to find blob features.
+    points = detectSURFFeatures(I) 
+    
+    returns a SURFPoints object, points, containing information about SURF features detected in the 2-D grayscale input image I. The detectSURFFeatures function implements the Speeded-Up Robust Features (SURF) algorithm to find blob features.
   
   - `extractFeatures`
+  
+    [features,validPoints] = extractFeatures(I,points)
+  
+    returns extracted feature vectors, also known as descriptors, and their corresponding locations, from a binary or intensity image.
+
+    The function derives the descriptors from pixels surrounding an interest point. The pixels represent and match features specified by a single-point location. Each single-point specifies the center location of a neighborhood. The method you use for descriptor extraction depends on the class of the input points.
+  
   - `matchFeatures`
   
 </details>
@@ -161,7 +167,7 @@ stereoParams =
 <summary>Reference</summary>
 
 - `detectSURFFeatures`: https://www.mathworks.com/help/vision/ref/detectsurffeatures.html
-- 
+- `extractFeatures`: https://www.mathworks.com/help/vision/ref/extractfeatures.html
 
   
 </details>
