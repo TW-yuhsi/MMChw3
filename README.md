@@ -139,12 +139,17 @@ stereoParams =
 <details>
 <summary>Functions</summary>
 
+`find_match_points`
+  
 </details>
 
 
 <details>
 <summary>Figures</summary>
 
+1. Grayscale images
+2. 
+  
 </details>
 
 
