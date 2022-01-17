@@ -156,6 +156,10 @@ stereoParams =
   
   - `matchFeatures`
   
+  indexPairs = matchFeatures(features1,features2)
+  
+  returns indices of the matching features in the two input feature sets. The input feature must be either binaryFeatures objects or matrices.
+  
 </details>
 
 
@@ -168,6 +172,7 @@ stereoParams =
 
 - `detectSURFFeatures`: https://www.mathworks.com/help/vision/ref/detectsurffeatures.html
 - `extractFeatures`: https://www.mathworks.com/help/vision/ref/extractfeatures.html
+- `matchFeatures`: https://www.mathworks.com/help/vision/ref/matchfeatures.html
 
   
 </details>
