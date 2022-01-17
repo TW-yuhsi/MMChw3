@@ -140,9 +140,9 @@ stereoParams =
 <summary>Functions</summary>
 
 - `find_match_points`
-  1. `detectSURFFeatures`
-  2. `extractFeatures`
-  3. `matchFeatures`
+  - `detectSURFFeatures`
+  - `extractFeatures`
+  - `matchFeatures`
   
 </details>
 
