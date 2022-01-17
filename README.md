@@ -219,4 +219,5 @@ stereoParams =
 ## Reference
 
 - Checkerboard: https://atlantavinylstore.com/products/checkerboard-patterned-htv
+- Checkerboard2: https://markhedleyjones.com/projects/calibration-checkerboard-collection 
 - Tutorial for Stereo Camera Calibrator: https://www.youtube.com/watch?v=6OWGfP3nf8s
