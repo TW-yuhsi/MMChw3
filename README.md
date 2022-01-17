@@ -165,6 +165,10 @@ stereoParams =
     showMatchedFeatures(I1,I2,matchedPoints1,matchedPoints2)
 
     displays a falsecolor overlay of images I1 and I2 with a color-coded plot of corresponding points connected by a line. matchedPoints1 and matchedPoints2 contain the coordinates of corresponding points in I1 and I2. The input points can be M-by-2 matrices of M number of [x y] coordinates, or SURFPoints, MSERRegions, ORBPoints, BRISKPoints, or cornerPoints object.
+
+- `filter_match_points_ep`
+  
+  - 
   
 </details>
 
