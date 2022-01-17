@@ -141,6 +141,8 @@ stereoParams =
 
 - `find_match_points`
   - `detectSURFFeatures`
+    Syntax: points = detectSURFFeatures(I)
+    points = detectSURFFeatures(I) returns a SURFPoints object, points, containing information about SURF features detected in the 2-D grayscale input image I. The detectSURFFeatures function implements the Speeded-Up Robust Features (SURF) algorithm to find blob features.
   - `extractFeatures`
   - `matchFeatures`
   
