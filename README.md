@@ -10,12 +10,7 @@
 ## MATLAB
 
 
-<details>
-<summary>Camera Calibrator</summary>
-  
-![image]()
-  
-</details>
+### Camera Calibrator
 
 
 
@@ -27,15 +22,10 @@
 
 
 
+### Stereo Camera Calibrator
 
-
-
-<details>
-<summary>Stereo Camera Calibrator</summary>
-  
 ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/apps.png)
-  
-</details>
+
 
 
 
