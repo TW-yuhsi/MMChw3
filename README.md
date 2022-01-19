@@ -65,7 +65,7 @@
 
 ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/loadImgs.png)
   
-- View Images and Detected Points
+- View Images and Detected Points (check whether the orientation of each coordinate are same)
 
 ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/imagesLoaded.png)
 The Data Browser pane displays a list of image pairs with IDs. These image pairs contain a detected pattern. To view an image, select it from the Data Browser pane.
