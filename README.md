@@ -38,7 +38,7 @@
 - View Images and Detected Points
 
 
-![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/app.png)
+  ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/imgLoaded.png)
 
 </details>
 
