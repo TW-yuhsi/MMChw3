@@ -47,7 +47,7 @@
 <details>
 <summary>Calibrate</summary>
   
-![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/calibrate.png)
+![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/calibrated.png)
   
 </details>
 
