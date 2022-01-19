@@ -28,8 +28,8 @@
 <summary>Add Images from folders</summary>
 
 - Load Stereo Images
-  - Folder for images from camera 1: ~\checkerboard\camera_left_cropped
-  - Folder for images from camera 2: ~\checkerboard\camera_right_cropped
+  - Folder for images from left camera: ~\checkerboard\camera_left_resized
+  - Folder for images from rihgt camera: ~\checkerboard\camera_right_resiezd
   - Size of checkerboard square: 30 millimeters
 
     ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/loadSize.png)
