@@ -49,7 +49,7 @@
   
   ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/calibrated.png)
 
-  After calibrate each camera, export to Workspace with name and save them as `cameraParamsL` and `cameraParamsR`, respectively.
+  After calibrate each camera, export the parameter to Workspace with name and save them as `cameraParamsL` and `cameraParamsR`, respectively.
 </details>
 
 
@@ -108,6 +108,7 @@
 
   ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Stereo%20Camera%20Calibrator/rectifiedImg.png)
   
+  After rectified each pair of images, export the parameter to Workspace with name and save it as `stereoParams`.
 </details>
 
 
