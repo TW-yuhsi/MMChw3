@@ -87,9 +87,9 @@
 <details>
 <summary>Calibrate</summary>
 
-Once you are satisfied with the accepted image pairs, click the Calibrate button on the Calibration tab. The default calibration settings assume the minimum set of camera parameters. Start by running the calibration with the default settings. After evaluating the results, you can try to improve calibration accuracy by adjusting the settings and adding or removing images, and then calibrate again.
-  
-![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/calibrate.png)
+  Once you are satisfied with the accepted image pairs, click the Calibrate button on the Calibration tab. The default calibration settings assume the minimum set of camera parameters. Start by running the calibration with the default settings. After evaluating the results, you can try to improve calibration accuracy by adjusting the settings and adding or removing images, and then calibrate again.
+
+  ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Stereo%20Camera%20Calibrator/calibrated.png)
   
 </details>
 
@@ -100,9 +100,9 @@ Once you are satisfied with the accepted image pairs, click the Calibrate button
 <details>
 <summary>Evaluate Calibration Results</summary>
 
-You can evaluate calibration accuracy by examining the reprojection errors, examining the camera extrinsics, or viewing the undistorted image. For best calibration results, use all three methods of evaluation.  
+  You can evaluate calibration accuracy by examining the reprojection errors, examining the camera extrinsics, or viewing the undistorted image. For best calibration results, use all three methods of evaluation.  
 
-![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/afterCalibrate.png)
+  ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/afterCalibrate.png)
   
 </details>
 
@@ -115,9 +115,9 @@ You can evaluate calibration accuracy by examining the reprojection errors, exam
 <details>
 <summary>Show Rectified Images</summary>
 
-To view the effects of stereo rectification, on the Calibration tab, in the View section, select Show Rectified. If the calibration is accurate, the images become undistorted and row-aligned.
+  To view the effects of stereo rectification, on the Calibration tab, in the View section, select Show Rectified. If the calibration is accurate, the images become undistorted and row-aligned.
 
-![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/showRectified.png)
+  ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Stereo%20Camera%20Calibrator/rectifiedImg.png)
   
 </details>
 
