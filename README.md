@@ -12,6 +12,13 @@
 
 ### Image pre-processing
 
+<details>
+<summary>Resize</summary>
+
+`imgResize.m`
+
+</details>
+
 
 ### Camera Calibrator
 
