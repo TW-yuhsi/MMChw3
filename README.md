@@ -91,20 +91,9 @@
 
   ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Stereo%20Camera%20Calibrator/calibrated.png)
   
-</details>
-
-
-
-
-
-<details>
-<summary>Evaluate Calibration Results</summary>
-
   You can evaluate calibration accuracy by examining the reprojection errors, examining the camera extrinsics, or viewing the undistorted image. For best calibration results, use all three methods of evaluation.  
-
-  ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/afterCalibrate.png)
-  
 </details>
+
 
 
 
