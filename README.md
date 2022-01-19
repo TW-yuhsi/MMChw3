@@ -24,7 +24,7 @@
 
 ### Stereo Camera Calibrator
 
-![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/apps.png)
+![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Stereo%20Camera%20Calibrator/app.png)
 
 
 
