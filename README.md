@@ -12,7 +12,7 @@
 
 ### Camera Calibrator
 
-![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/cameraCalibrator.png)
+![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/app.png)
 
 
 
