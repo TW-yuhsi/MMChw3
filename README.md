@@ -16,7 +16,7 @@
 <details>
 <summary>Resize</summary>
 
-`imgResize.m`
+  `imgResize.m`
 
 </details>
 
@@ -28,17 +28,17 @@
 <details>
 <summary>Add Images from folders</summary>
 
-- Load Stereo Images
-  - Folder for images from left camera: ~\checkerboard\camera_left_resized
-  - Folder for images from rihgt camera: ~\checkerboard\camera_right_resiezd
-  - Size of checkerboard square: 30 millimeters
+  - Load Stereo Images
+    - Folder for images from left camera: ~\checkerboard\camera_left_resized
+    - Folder for images from rihgt camera: ~\checkerboard\camera_right_resiezd
+    - Size of checkerboard square: 30 millimeters
 
-    ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/loadSize.png)
-  
-- View Images and Detected Points
+      ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/loadSize.png)
+
+  - View Images and Detected Points
 
 
-  ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/imgLoaded.png)
+    ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/imgLoaded.png)
 
 </details>
 
@@ -47,9 +47,9 @@
 <details>
 <summary>Calibrate</summary>
   
-![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/calibrated.png)
- 
-After calibrate each camera, export to Workspace with name and save them as `cameraParamsL` and `cameraParamsR`, respectively.
+  ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/calibrated.png)
+
+  After calibrate each camera, export to Workspace with name and save them as `cameraParamsL` and `cameraParamsR`, respectively.
 </details>
 
 
