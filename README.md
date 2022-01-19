@@ -5,6 +5,7 @@
 - System: Microsoft Windows 10 Pro
 - Processor: Intel(R) Core(TM) i5-7300U CPU @ 2.60GHz   2.71 GHz
 - Installed RAM: 4.00 GB
+- Left camera: iPhone 8 / Right camera: iPhone 7
 
 
 ## MATLAB R2021a
