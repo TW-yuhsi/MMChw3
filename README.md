@@ -49,7 +49,7 @@
   
 ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/calibrated.png)
  
-After calibrate each camera, export to Workspace and name them `cameraParamsL` and `cameraParamsR`, respectively.
+After calibrate each camera, export to Workspace with name and save them as `cameraParamsL` and `cameraParamsR`, respectively.
 </details>
 
 
