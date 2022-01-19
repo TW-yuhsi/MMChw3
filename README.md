@@ -73,7 +73,7 @@
   - Folder for images from camera 2: ~\checkerboard\camera_right_cropped
   - Size of checkerboard square: 5 millimeters
 
-![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/loadImgs.png)
+    ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Stereo%20Camera%20Calibrator/loadSize.png)
   
 - View Images and Detected Points (check whether the orientation of each coordinate are same)
 
