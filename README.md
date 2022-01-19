@@ -20,9 +20,9 @@
 - Load Stereo Images
   - Folder for images from camera 1: ~\checkerboard\camera_left_cropped
   - Folder for images from camera 2: ~\checkerboard\camera_right_cropped
-  - Size of checkerboard square: 5 millimeters
+  - Size of checkerboard square: 30 millimeters
 
-![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/loadImgs.png)
+![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/loadSize.png)
   
 - View Images and Detected Points
 
