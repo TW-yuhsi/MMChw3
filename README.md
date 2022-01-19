@@ -14,7 +14,22 @@
 
 ![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/Camera%20Calibrator/app.png)
 
+<details>
+<summary>Add Images from folders</summary>
 
+- Load Stereo Images
+  - Folder for images from camera 1: ~\checkerboard\camera_left_cropped
+  - Folder for images from camera 2: ~\checkerboard\camera_right_cropped
+  - Size of checkerboard square: 5 millimeters
+
+![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/loadImgs.png)
+  
+- View Images and Detected Points
+
+![image](https://github.com/TW-yuhsi/MMChw3/blob/main/figures/imagesLoaded.png)
+The Data Browser pane displays a list of image pairs with IDs. These image pairs contain a detected pattern. To view an image, select it from the Data Browser pane.
+
+</details>
 
 
 
