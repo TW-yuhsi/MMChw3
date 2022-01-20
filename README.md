@@ -229,7 +229,7 @@ Checking the rectified images is important even if the reprojection errors are l
 
 ## Reference
 
-- Checkerboard: https://atlantavinylstore.com/products/checkerboard-patterned-htv
-- Checkerboard2: https://markhedleyjones.com/projects/calibration-checkerboard-collection 
+- Checkerboard - 1: https://atlantavinylstore.com/products/checkerboard-patterned-htv
+- Checkerboard - 2: https://markhedleyjones.com/projects/calibration-checkerboard-collection 
 - disparityBM: https://www.mathworks.com/help/vision/ref/disparitybm.html
 - disparitySGM: https://www.mathworks.com/help/vision/ref/disparitysgm.html
