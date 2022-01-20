@@ -203,8 +203,10 @@ Checking the rectified images is important even if the reprojection errors are l
 <details>
 <summary>Figures</summary>
 
-1. Grayscale images
-2. 
+  1. Grayscale images in two visions with matched points
+  2. Images with epipolar lines
+  3. Disparity map
+  
   
 </details>
 
@@ -227,7 +229,7 @@ Checking the rectified images is important even if the reprojection errors are l
 
 ## Demo
 
-https://youtu.be/DyB3T92YL6g
+- https://youtu.be/DyB3T92YL6g
 
 
 
